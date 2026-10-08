@@ -21,7 +21,9 @@ Contributions included:
 
 ### VidSeek AI
 
-Chrome extension and web app that lets you chat with any video. An AI agent searches speech, visuals and on-screen text, and every cited timestamp is checked against evidence.
+**Ask any video anything.**
+
+A multimodal AI agent that helps you understand and navigate videos on almost any website. Ask about what’s said, what happens on screen, or what’s written on slides and whiteboards, and jump straight to the relevant moments with clickable timestamps. Built as a Chrome extension and web app.
 
 [GitHub](https://github.com/shachar-bz/VidSeek-AI) · [Demo Video](https://drive.google.com/file/d/190IBrqsLmJo0ctHglXR8zCOwi_hUDnVc/view?usp=sharing)
 
