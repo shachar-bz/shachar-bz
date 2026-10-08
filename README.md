@@ -14,6 +14,7 @@ Contributions included:
 
 - Improved the ingestion pipeline processing thousands of social media posts each week, strengthening failure handling, retries, and reprocessing.
 - Integrated and evaluated face detection and recognition models on project data to select suitable configurations for the platform.
+- Analyzed media data in depth using LLM-based systems and custom-built analysis tools.
 - Improved system performance through PostgreSQL indexing and query optimization, compression, and progressive loading.
 
 ## Projects
@@ -56,7 +57,7 @@ LangGraph agent that turns natural-language data questions into Python, executes
 
 [GitHub](https://github.com/shachar-bz/langgraph-self-correcting-codegen)
 
-### TCP Dynamics — University of Birmingham
+### TCP Dynamics - University of Birmingham
 
 A network performance study completed for the **University of Birmingham** (UOB), using Wireshark and curl to examine TCP behavior under increasing packet loss. Compared throughput, transfer times, and completion rates across repeated experiments, and analyzed retransmissions, timeouts, and congestion control.
 
@@ -97,7 +98,7 @@ Completed the full Nand2Tetris course, building a computer system from logic gat
 
 ## Education
 
-**Reichman University — B.Sc. in Computer Science**  
+**Reichman University - B.Sc. in Computer Science**  
 GPA: **92/100**
 
 ## Contact
