@@ -85,6 +85,8 @@ Completed the full Nand2Tetris course, building a computer system from logic gat
 
 **Cloud:** Google Cloud Platform (GCP).
 
+**Data Collection:** Web scraping and data extraction using third-party services (such as Bright Data and Firecrawl), alongside custom-built scrapers.
+
 **Selected coursework:**
 
 | Course | Grade |
