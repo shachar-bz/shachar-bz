@@ -45,7 +45,7 @@ An NLP research project investigating a negation blind spot in Hebrew text embed
 
 A team of AI imagery analysts that investigates suspected military sites from satellite imagery
 
-[GitHub](https://github.com/shachar-bz/Base-analyzer) · [Demo Video](https://drive.google.com/file/d/1NwCNHssuBQ8BT9jI9A-ughrEmuJxSF4E/view?usp=sharing)
+[GitHub](https://github.com/shachar-bz/Base-analyzer) · [Demo Video](https://drive.google.com/file/d/1DPgL3iMF_eJqtKJVdCbukuu-qYrRjKpR/view?usp=sharing)
 
 ### LLM Tool-Calling Agent
 
