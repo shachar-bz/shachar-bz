@@ -13,7 +13,7 @@ I enjoy building AI applications that bring models, data, and software together.
 Contributions included:
 
 - Optimized system performance through PostgreSQL indexing, query optimization, compression, and progressive loading.
-- Strengthened the reliability of an ingestion pipeline processing thousands of scraped social media posts weekly by improving failure handling, retries, and reprocessing.
+- Improved the reliability of a data ingestion pipeline processing thousands of scraped social media posts per week by improving error handling, implementing retry mechanisms, and enabling data reprocessing capabilities.
 - Developed a face-recognition pipeline by integrating and evaluating multiple face detection and embedding models, testing performance across different scenarios, and tuning hyperparameters for the platform's use case.
 - Conducted in-depth media analysis using LLM-based systems and custom-built analysis tools.
 - Collaborated with the research team to translate research requirements into technical solutions deployed in production.
