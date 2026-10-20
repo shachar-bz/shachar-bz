@@ -2,7 +2,7 @@
 
 **Software Engineer building AI-powered systems.**
 
-I enjoy building AI applications that bring models, data, and software together. My work spans LLM agents, multimodal retrieval, and computer vision, including the data pipelines and backend infrastructure that support them.
+I enjoy building AI applications that bring models, data, and software together. My work spans agents, multimodal retrieval, and computer vision, including the data pipelines and backend infrastructure that support them.
 
 ## Experience
 
