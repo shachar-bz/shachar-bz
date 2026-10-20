@@ -28,14 +28,6 @@ A multimodal AI agent that helps you understand and navigate videos on almost an
 
 [GitHub](https://github.com/shachar-bz/VidSeek-AI) · [Demo Video](https://drive.google.com/file/d/190IBrqsLmJo0ctHglXR8zCOwi_hUDnVc/view?usp=sharing)
 
-### Face Detection & Recognition
-
-An evaluation study and reusable pipeline for detecting faces and identifying people against a known-person reference database.
-
-Compared detection models, face embeddings, matching strategies, and decision thresholds using benchmark images and social media data from ZebeAI. The evaluation informed the choice of models and matching configuration, which were then packaged into a runnable pipeline.
-
-[GitHub](https://github.com/shachar-bz/FaceDetection)
-
 ### Negation in Hebrew Text Embeddings
 
 An NLP research project investigating a negation blind spot in Hebrew text embeddings, where a sentence and its negation can receive higher semantic similarity scores than a meaning-preserving paraphrase. Explored two approaches: amplifying a negation-related direction in the embedding space, and fine-tuning a pretrained Hebrew language model for natural language inference (NLI) to rerank similarity scores, while aiming to preserve general semantic similarity.
@@ -47,6 +39,20 @@ An NLP research project investigating a negation blind spot in Hebrew text embed
 A team of AI imagery analysts that investigates suspected military sites from satellite imagery
 
 [GitHub](https://github.com/shachar-bz/Base-analyzer) · [Demo Video](https://drive.google.com/file/d/1DPgL3iMF_eJqtKJVdCbukuu-qYrRjKpR/view?usp=sharing)
+
+### Customer Service Agent
+
+AI customer-service agent for an online store. A ReAct tool-calling loop over a product catalog and customer store, wrapped by an LLM reviewer that validates and enforces correct answers.
+
+[GitHub](https://github.com/shachar-bz/Customer_service_agent)
+
+### Face Detection & Recognition
+
+An evaluation study and reusable pipeline for detecting faces and identifying people against a known-person reference database.
+
+Compared detection models, face embeddings, matching strategies, and decision thresholds using benchmark images and social media data from ZebeAI. The evaluation informed the choice of models and matching configuration, which were then packaged into a runnable pipeline.
+
+[GitHub](https://github.com/shachar-bz/FaceDetection)
 
 ### LLM Tool-Calling Agent
 
